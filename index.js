@@ -73,5 +73,5 @@ app.get('/api/baixar-csv', async (req, res) => {
 });
 
 app.listen(port, () => {
-  console.log(`Server running at http://localhost:${port}`);
+  console.log(`Server running at https://placement-test-us-back-end.onrender.com/`);
 });
